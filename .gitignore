@@ -4,6 +4,7 @@
 *java#
 *.classpath
 *.project
+*.properties
 *.settings
 *.iml
 facebook/local.properties
