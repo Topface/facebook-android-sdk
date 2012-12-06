@@ -35,7 +35,6 @@ import android.webkit.WebViewClient;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import com.facebook.android.R;
 import com.facebook.topface.Facebook.DialogListener;
 
 public class FbDialog extends Dialog {
