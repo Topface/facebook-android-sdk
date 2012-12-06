@@ -1,4 +1,4 @@
-package com.facebook.android;
+package com.facebook.topface;
 
 import android.app.Activity;
 import android.content.Intent;

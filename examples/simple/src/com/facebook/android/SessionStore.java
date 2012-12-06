@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.facebook.android;
+package com.facebook.topface;
 
-import com.facebook.android.Facebook;
+import com.facebook.topface.Facebook;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;

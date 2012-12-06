@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.facebook.android;
+package com.facebook.topface;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -34,8 +34,8 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.facebook.android.SessionEvents.AuthListener;
-import com.facebook.android.SessionEvents.LogoutListener;
+import com.facebook.topface.SessionEvents.AuthListener;
+import com.facebook.topface.SessionEvents.LogoutListener;
 
 
 public class Example extends Activity {

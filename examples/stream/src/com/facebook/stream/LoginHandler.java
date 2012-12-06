@@ -22,11 +22,11 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.facebook.android.AsyncFacebookRunner;
-import com.facebook.android.DialogError;
-import com.facebook.android.Facebook;
-import com.facebook.android.FacebookError;
-import com.facebook.android.Facebook.DialogListener;
+import com.facebook.topface.AsyncFacebookRunner;
+import com.facebook.topface.DialogError;
+import com.facebook.topface.Facebook;
+import com.facebook.topface.FacebookError;
+import com.facebook.topface.Facebook.DialogListener;
 
 /**
  * A handler for the login page.

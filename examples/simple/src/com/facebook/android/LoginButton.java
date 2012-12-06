@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.facebook.android;
+package com.facebook.topface;
 
-import com.facebook.android.BaseRequestListener;
-import com.facebook.android.SessionEvents.AuthListener;
-import com.facebook.android.SessionEvents.LogoutListener;
-import com.facebook.android.Facebook.DialogListener;
+import com.facebook.topface.BaseRequestListener;
+import com.facebook.topface.SessionEvents.AuthListener;
+import com.facebook.topface.SessionEvents.LogoutListener;
+import com.facebook.topface.Facebook.DialogListener;
 
 import android.app.Activity;
 import android.content.Context;

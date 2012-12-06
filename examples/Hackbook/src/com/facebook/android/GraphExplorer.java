@@ -1,4 +1,4 @@
-package com.facebook.android;
+package com.facebook.topface;
 
 /*
  * The me, delete and back_parent buttons are downloaded from http://icongal.com/

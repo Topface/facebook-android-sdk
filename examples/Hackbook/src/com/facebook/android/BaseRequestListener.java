@@ -1,4 +1,4 @@
-package com.facebook.android;
+package com.facebook.topface;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.net.MalformedURLException;
 
 import android.util.Log;
 
-import com.facebook.android.AsyncFacebookRunner.RequestListener;
+import com.facebook.topface.AsyncFacebookRunner.RequestListener;
 
 /**
  * Skeleton base class for RequestListeners, providing default error handling.

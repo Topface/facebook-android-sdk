@@ -1,4 +1,4 @@
-package com.facebook.android.tests;
+package com.facebook.topface.tests;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -6,13 +6,13 @@ import java.net.MalformedURLException;
 
 import org.json.JSONObject;
 
-import com.facebook.android.AsyncFacebookRunner;
-import com.facebook.android.DialogError;
-import com.facebook.android.Facebook;
-import com.facebook.android.FacebookError;
-import com.facebook.android.Util;
-import com.facebook.android.AsyncFacebookRunner.RequestListener;
-import com.facebook.android.Facebook.DialogListener;
+import com.facebook.topface.AsyncFacebookRunner;
+import com.facebook.topface.DialogError;
+import com.facebook.topface.Facebook;
+import com.facebook.topface.FacebookError;
+import com.facebook.topface.Util;
+import com.facebook.topface.AsyncFacebookRunner.RequestListener;
+import com.facebook.topface.Facebook.DialogListener;
 
 import android.app.Activity;
 import android.content.Intent;

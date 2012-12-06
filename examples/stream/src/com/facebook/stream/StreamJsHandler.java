@@ -24,8 +24,8 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import android.os.Bundle;
-import com.facebook.android.AsyncFacebookRunner;
-import com.facebook.android.Facebook;
+import com.facebook.topface.AsyncFacebookRunner;
+import com.facebook.topface.Facebook;
 
 /**
  * Implements functions that can be called from Javascript in the

@@ -1,6 +1,6 @@
-package com.facebook.android;
+package com.facebook.topface;
 
-import com.facebook.android.Facebook.DialogListener;
+import com.facebook.topface.Facebook.DialogListener;
 
 /**
  * Skeleton base class for RequestListeners, providing default error handling.

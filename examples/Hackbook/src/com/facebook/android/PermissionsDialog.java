@@ -1,4 +1,4 @@
-package com.facebook.android;
+package com.facebook.topface;
 
 import java.util.Vector;
 
@@ -22,7 +22,7 @@ import android.widget.TabHost.TabSpec;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.facebook.android.Facebook.DialogListener;
+import com.facebook.topface.Facebook.DialogListener;
 
 public class PermissionsDialog extends Dialog {
 

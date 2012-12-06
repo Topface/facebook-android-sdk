@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.facebook.android;
+package com.facebook.topface;
 
 import java.io.IOException;
 
@@ -42,8 +42,8 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.facebook.android.SessionEvents.AuthListener;
-import com.facebook.android.SessionEvents.LogoutListener;
+import com.facebook.topface.SessionEvents.AuthListener;
+import com.facebook.topface.SessionEvents.LogoutListener;
 
 public class Hackbook extends Activity implements OnItemClickListener {
 

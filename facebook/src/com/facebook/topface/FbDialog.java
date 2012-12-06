@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.facebook.android;
+package com.facebook.topface;
 
 import android.app.Dialog;
 import android.app.ProgressDialog;
@@ -35,7 +35,8 @@ import android.webkit.WebViewClient;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import com.facebook.android.Facebook.DialogListener;
+import com.facebook.android.R;
+import com.facebook.topface.Facebook.DialogListener;
 
 public class FbDialog extends Dialog {
 
@@ -102,7 +103,8 @@ public class FbDialog extends Dialog {
                 FbDialog.this.dismiss();
             }
         });
-        Drawable crossDrawable = getContext().getResources().getDrawable(R.drawable.close);
+        Drawable crossDrawable = getContext().getResources().getDrawable(R
+                .drawable.close);
         mCrossImage.setImageDrawable(crossDrawable);
         /* 'x' should not be visible while webview is loading
          * make it visible only after webview has fully loaded

@@ -1,4 +1,4 @@
-package com.facebook.android;
+package com.facebook.topface;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayOutputStream;

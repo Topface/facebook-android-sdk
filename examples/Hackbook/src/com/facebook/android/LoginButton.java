@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.facebook.android;
+package com.facebook.topface;
 
 import android.app.Activity;
 import android.content.Context;
@@ -25,9 +25,9 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.ImageButton;
 
-import com.facebook.android.Facebook.DialogListener;
-import com.facebook.android.SessionEvents.AuthListener;
-import com.facebook.android.SessionEvents.LogoutListener;
+import com.facebook.topface.Facebook.DialogListener;
+import com.facebook.topface.SessionEvents.AuthListener;
+import com.facebook.topface.SessionEvents.LogoutListener;
 
 public class LoginButton extends ImageButton {
 

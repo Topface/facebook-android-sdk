@@ -25,11 +25,11 @@ import org.json.JSONObject;
 
 import android.util.Log;
 
-import com.facebook.android.AsyncFacebookRunner;
-import com.facebook.android.Facebook;
-import com.facebook.android.FacebookError;
-import com.facebook.android.Util;
-import com.facebook.android.AsyncFacebookRunner.RequestListener;
+import com.facebook.topface.AsyncFacebookRunner;
+import com.facebook.topface.Facebook;
+import com.facebook.topface.FacebookError;
+import com.facebook.topface.Util;
+import com.facebook.topface.AsyncFacebookRunner.RequestListener;
 
 /**
  * A handler for the stream page. It's responsible for

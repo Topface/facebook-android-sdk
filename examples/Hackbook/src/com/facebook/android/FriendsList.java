@@ -1,4 +1,4 @@
-package com.facebook.android;
+package com.facebook.topface;
 
 import org.json.JSONArray;
 import org.json.JSONException;

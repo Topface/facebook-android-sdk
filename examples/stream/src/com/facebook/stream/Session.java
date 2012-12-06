@@ -20,7 +20,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 
-import com.facebook.android.Facebook;
+import com.facebook.topface.Facebook;
 
 /**
  * A utility class for storing and retrieving Facebook session data.
