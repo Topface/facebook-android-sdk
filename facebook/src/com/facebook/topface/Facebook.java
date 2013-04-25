@@ -945,9 +945,11 @@ public class Facebook {
         String [] projection = {ATTRIBUTION_ID_COLUMN_NAME};
         Cursor c = contentResolver.query(ATTRIBUTION_ID_CONTENT_URI, projection, null, null, null);
         if (c == null || !c.moveToFirst()) {
+            c.close();
             return null;
         }
         String attributionId = c.getString(c.getColumnIndex(ATTRIBUTION_ID_COLUMN_NAME));
+        c.close();
 
         return attributionId;
     }
